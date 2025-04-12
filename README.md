@@ -1,4 +1,4 @@
-## Pedro Lucas
+## Olá sou o Pedro Lucas
 
 
 Iniciei minha trajetória no ramo metalúrgico, onde tenho experiência de 4 anos na 
