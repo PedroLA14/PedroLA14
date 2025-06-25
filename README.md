@@ -1,8 +1,8 @@
 ## Olá!! sou o Pedro Lucas!
 
 
-Iniciei minha trajetória profissional no ramo metalúrgico, onde atuei por quatro anos, adquirindo experiência prática e disciplina. No entanto, sempre tive afinidade com a área de tecnologia, o que me motivou a iniciar minha graduação em Ciência da Computação. Atualmente, estou em transição de carreira, com o objetivo de aplicar meus conhecimentos em tecnologia para desenvolver soluções eficazes e contribuir de forma assertiva no setor de TI.
-
+Sou estudante de Ciência da Computação, atualmente em transição de carreira após 4 anos de experiência no setor metalúrgico. Sempre fui apaixonado por tecnologia da informação, o que me levou a buscar qualificação na área por meio de cursos introdutórios de Python e SQL, além de estudar tópicos como lógica de programação, redes de computadores, banco de dados e computação em nuvem.
+Busco uma oportunidade de estágio ou posição de nível inicial na área de tecnologia da informação, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
 
 
 ### 🤖 Linguagens e Tecnologias
